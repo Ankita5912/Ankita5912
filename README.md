@@ -5,7 +5,7 @@
   <div align="left">
     <p>- 👋 Hi, I’m @Ankita Soni</p>
     <p>- 👀 I’m interested in 🧠 Artificial Intelligence and Machine Learning...</p>
-    <p>- 🌱 I’m currently learning Backnened Development...</p>
+    <p>- 🌱 I’m a Full Stack Developer.</p>
     <p>- 💞️ I’m looking to collaborate on projects that work on Artificial Intelligence...</p>
     <p>- 📫 How to reach me 📧 <a href="">ankitas5912gmail.com</a>...</p>
     <p>- ⚡ Fun fact: Working as Developer Intern in Poolstack Technologies PVT Limited...</p>
